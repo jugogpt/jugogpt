@@ -1,4 +1,4 @@
-## Greetings Earthlings
+## Greetings
 
 - I am a current **sophomore at MIT** studying Computer Science and Math. I code mainly in **Rust, Python, and C++**.
 
