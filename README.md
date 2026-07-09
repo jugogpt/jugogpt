@@ -6,5 +6,5 @@
 
 - I am currently working on a **Rust project** called **Internet Traffic Exchange**, a live blockchain and cryptocurrency exchange for internet agents to trade on where mining = agent task completion.
 
-- In the past I have worked on **AI and Machine Learning research** with the following MIT labs: CSAIL, Dec0de Lab, and Edelman Lab.
+- In the past I have worked on **AI and Machine Learning research** with the following MIT labs: CSAIL, Dec0de Lab, and Edelman Lab. I've also enjoyed programming C++ arduino robots for Scioly.
 
