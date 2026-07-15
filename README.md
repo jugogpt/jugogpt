@@ -1,6 +1,6 @@
 ## Greetings
 
-- I am a current **sophomore at MIT** studying Computer Science and Math. I code mainly in **Rust, Python, and C++**.
+- I am a current **sophomore at MIT** studying Computer Science and Math. I code mainly in **Rust, Python, and C++/C**.
 
 - I am currently a **research intern at the Harvard-MIT Center for Ultra-Cold Atoms** where I am helping develop and prove theorems in commutative algebra applied to quantum coding theory.
 
